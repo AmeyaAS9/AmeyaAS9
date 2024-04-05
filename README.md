@@ -21,7 +21,7 @@ Driven by a curiosity for innovation, I constantly explore emerging technologies
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - *🔭 I’m currently working on Coaxial Micro Aerial Vehicle Projevct and Autonomous SLAM Robot Car!*  
   
@@ -32,10 +32,7 @@ Driven by a curiosity for innovation, I constantly explore emerging technologies
 - *❓ Ask me about anything related to Unmanned Aerial Systems and Control Systems*  
   
 
-- ⚡ Fun fact: I love unplanned travel adventure!  
-
-
-</td><td valign="top" width="50%">
+- *⚡ Fun fact: I love unplanned travel adventure!* 
 
 
 
