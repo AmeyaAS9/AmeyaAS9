@@ -37,9 +37,6 @@ Driven by a curiosity for innovation, I constantly explore emerging technologies
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
@@ -115,6 +112,3 @@ Driven by a curiosity for innovation, I constantly explore emerging technologies
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-AmeyaAS9/AmeyaAS9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
