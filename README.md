@@ -12,9 +12,9 @@
 
 
 ### Glad to see you here!  
-*"I'm a passionate roboticist with a wealth of experience in crafting sophisticated robotic systems. My expertise lies in seamlessly integrating hardware and software to develop intelligent robots that excel in navigation and sensory perception.
+I'm a passionate roboticist with a wealth of experience in crafting sophisticated robotic systems. My expertise lies in seamlessly integrating hardware and software to develop intelligent robots that excel in navigation and sensory perception.
 
-Driven by a curiosity for innovation, I constantly explore emerging technologies like machine learning and swarm robotics to enhance the capabilities of autonomous systems. Through my writing and educational efforts, I aim to share insights and push the boundaries of what's achievable in the exciting field of robotics."*  
+Driven by a curiosity for innovation, I constantly explore emerging technologies like machine learning and swarm robotics to enhance the capabilities of autonomous systems. Through my writing and educational efforts, I aim to share insights and push the boundaries of what's achievable in the exciting field of robotics.  
   
 
 <br/>  
